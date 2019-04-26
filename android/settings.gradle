@@ -1,0 +1,3 @@
+rootProject.name = 'offer_up_pr_2742'
+
+include ':app'
